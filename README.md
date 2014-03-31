@@ -1,6 +1,6 @@
 ## Django Pipeline Compass Compiler
 
-Compiler class to use with Django Asset Pipeline package to compile Compass. It uses the official compass gem so you have to install it first:
+Compiler class to use with [Django Pipeline](https://github.com/cyberdelia/django-pipeline) package to compile [Compass](http://compass-style.org/). It uses the official compass gem so you have to install it first:
 
 ```shell
 $ sudo gem install compass
